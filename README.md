@@ -18,7 +18,7 @@ To build, run `mvn install` in the cloned directory.
 
 ## Documentation
 
-For further information, see the [Javadoc](https://github.intel.com/pages/iSPA/icecp-module-sample).
+For further information, see the [Javadoc](https://icecp.github.io/icecp-module-sample).
 
 ### License
 
